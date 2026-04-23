@@ -9,7 +9,7 @@ Este arquivo automatiza a execução de cálculos simples diretamente no termina
 1. Garanta que o arquivo tenha permissão de execução: `chmod +x calculadora.sh`
 2. Execute o script com o comando: `./calculadora.sh`
 
-## 2. Código Python (calculadora.py)
+## 2. Código Python (atividade I)
 O código em Python realiza a lógica de cálculo de forma estruturada. 
 - Ele utiliza a função `input()` para receber dados do usuário.
 - Realiza o processamento aritmético.
